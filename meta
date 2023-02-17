@@ -2,5 +2,6 @@
   "name": "Esquire Stake Pool",
   "ticker": "ESQ",
   "description": "Bridging Dreams and Reality",
-  "homepage": "https://EsquireAutos.ca"
+  "homepage": "https://EsquireAutos.ca",
+  "adapool": "8bc1a7665d0d2cebda"
 }
